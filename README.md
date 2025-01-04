@@ -1,4 +1,4 @@
-# NeuaralNetworks_DeepLearning
+# NeuralNetworks_DeepLearning
 This repo contains acedemic projects on Neural Networks and Deep Learning
 It contains two projects(Part-A and Part-B).
 
